@@ -1,8 +1,7 @@
 # Tale-of-Hungry-Snake
 
 ### Enjoy the game - 
-
-
+https://stutijain101.github.io/Tale-of-Hungry-Snake/
 The "Tale of Hungry Snake" is a modern rendition of the classic Snake game. This browser-based game allows players to control a snake, guiding it to eat food to grow longer while avoiding collisions with the walls or itself. The game provides an engaging experience with a simple yet effective design, enhanced with sound effects and score tracking.
 
 
